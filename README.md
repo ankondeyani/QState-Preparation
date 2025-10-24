@@ -73,7 +73,7 @@ print(state)  # [0.70710678+0.j 0.+0.j ... 0.70710678+0.j]
 print(np.sum(np.abs(state)**2))  # 1.0
 ```
 
-### Advanced Three-Qubit Features (`three_qbit_more_fun.py`)
+### Advanced Three-Qubit Features [three_qbit_more_fun.py](https://github.com/ankondeyani/QState-Preparation/blob/main/three_qbit_more_fun.py)
 
 This file extends the three-qubit preparation with circuit simulation (simplified), utility functions for analysis, and visualization. It requires Matplotlib and SciPy.
 
