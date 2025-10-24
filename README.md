@@ -57,7 +57,7 @@ state = prepare_two_qubit_state(amplitudes)
 print(np.sum(np.abs(state)**2))  # 1.0 (normalized)
 ```
 
-### Three-Qubit State Preparation (`three_qbit.py`)
+### Three-Qubit State Preparation [three_qbit.py](https://github.com/ankondeyani/QState-Preparation/blob/main/three_qbit.py)
 
 Similar to the two-qubit version, but for eight amplitudes, returning an 8D array.
 
