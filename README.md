@@ -38,7 +38,7 @@ No additional dependencies are required for core functionality.
 
 ## Usage
 
-### Two-Qubit State Preparation (`two_qbit.py`)
+### Two-Qubit State Preparation [two_qbit.py](https://github.com/ankondeyani/QState-Preparation/blob/main/two_qbit.py)
 
 Import the function and provide a list of four complex amplitudes (as a list or NumPy array). The function returns a 4D complex NumPy array.
 
